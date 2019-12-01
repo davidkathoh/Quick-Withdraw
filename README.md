@@ -8,7 +8,7 @@ Even if people can send, receive or withdraw money instantly, the experience is 
 
 # Plan on bringing the idea to life
 
-The initial  version of the app has been already published on Google Play ([Eskke](bit.ly/Eskke)) This uses Accessibility Services to simplify and visualize complex  USSD-based processes mostly for illiterate and innumerate users  so that they can  make transaction fast, the app has now more than 300  monthly active users and 100 downloads on google play, the plan now is to add a feature that will allow the users to withdraw money quickly, with the help of text recognition and barcode scan  of Vision ML Kit, that is why I would like google to :
+The initial  version of the app has been already published on Google Play ([Eskke](https://play.google.com/store/apps/details?id=com.geekslab.david.mobilesms)) This uses Accessibility Services to simplify and visualize complex  USSD-based processes mostly for illiterate and innumerate users  so that they can  make transaction fast, the app has now more than 300  monthly active users and 100 downloads on google play, the plan now is to add a feature that will allow the users to withdraw money quickly, with the help of text recognition and barcode scan  of Vision ML Kit, that is why I would like google to :
 
 - Guide  to make ML KIT  perfectly work offline  on low-end Android devices
 - Provide mentorship about Machine learning and experience different user case on mobile devices.
