@@ -1,5 +1,7 @@
 # Quick-Withdraw
 
+![alt text](https://github.com/davidkathoh/Quick-Withdraw/blob/master/mobile%20money.jpg)
+
 ## About the idea
 
 Mobile phones are replacing bank accounts in Africa thanks to the emergence of mobile money which has driven financial inclusion to the population that remains unbanked.
